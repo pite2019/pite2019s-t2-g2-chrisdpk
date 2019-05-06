@@ -109,3 +109,8 @@ def main():
 
 if __name__ == '__main__':
     main()
+
+# Improvements:
+# JSON to save to / read from file
+# 3 Banks, 12 Customers, 16 Transactions
+# credit (how much bank can give you)
